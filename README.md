@@ -13,7 +13,7 @@ Made for
 👨‍💻 -> Développé en <strong>Python</strong>.<br>
 💻 -> Disponible sur <strong>Windows</strong>, <strong>MacOS</strong>, <strong>Linux</strong>.<br> 
 🔎 -> Sans <strong>malware</strong> ni <strong>backdoor</strong>.<br>
-📂 -> Open Source et que 2-3 script obf (C'est pour limité les reprises des script en question etc !) vous pouvez tester avec virus total etc aucune backdoor.<br>
+📂 -> Open Source et que 2-3 script obf (Pour <strong>limité</strong> les reprises des script en question etc..) vous pouvez tester avec virus total etc aucune backdoor.<br>
 🔄 -> Mises à jour fréquentes.<br>
 💰 -> <strong>Gratuit</strong> pour tout le monde.<br>
 
