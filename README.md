@@ -17,7 +17,7 @@ Made for
 🔄 -> Mises à jour fréquentes.<br>
 💰 -> <strong>Gratuit</strong> pour tout le monde.<br>
 
-# Options:
+# ⚙️ Options:
 (1) TOKEN AUTO LOGIN,<br> 
 (2) TOKEN NUKER,<br> 
 (3) TOKEN INFORMATIONS,<br> 
