@@ -10,12 +10,12 @@ Made for
   <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0">
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
 </p>
-👨‍💻 -> Développé en **Python**.<br>
-💻 -> Disponible sur **Windows**,**MacOS**,**Linux**.<br> 
-🔎 -> **Sans malware** ni **backdoor**.<br>
-📂 -> **Open Source** et que 2-3 script obf (C'est pour **limité** les reprises des script en question etc !) vous pouvez tester avec virus total etc aucune backdoor.<br>
-🔄 -> **Mises à jour fréquentes**.<br>
-💰 -> **Gratuit** pour tout le monde.<br>
+👨‍💻 -> Développé en <strong>Python</strong>.<br>
+💻 -> Disponible sur <strong>Windows</strong>, <strong>MacOS</strong>, <strong>Linux</strong>.<br> 
+🔎 -> Sans <strong>malware</strong> ni <strong>backdoor</strong>.<br>
+📂 -> Open Source et que 2-3 script obf (C'est pour limité les reprises des script en question etc !) vous pouvez tester avec virus total etc aucune backdoor.<br>
+🔄 -> Mises à jour fréquentes.<br>
+💰 -> <strong>Gratuit</strong> pour tout le monde.<br>
 
 # Options:
 (1) TOKEN AUTO LOGIN,<br> 
