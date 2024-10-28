@@ -16,3 +16,20 @@ Made for
 📂 -> **Open Source** et que 2-3 script obf (C'est pour **limité** les reprises des script en question etc !) vous pouvez tester avec virus total etc aucune backdoor.<br>
 🔄 -> **Mises à jour fréquentes**.<br>
 💰 -> **Gratuit** pour tout le monde.<br>
+
+# Options:
+(1) TOKEN AUTO LOGIN,
+(2) TOKEN NUKER,
+(3) TOKEN INFORMATIONS,
+(4) TOKEN GENERATOR,
+(5) TOKEN CHECKER,
+(6) TOKEN DMALL,
+(7) TOKEN LEAVER,
+(8) TOKEN JOINER,
+(9) TOKEN GRABBER (builder),
+(10) WEBHOOK INFO,
+(11) DELETE WEBHOOK,
+(12) SPAM WEBHOOK,
+(13) CREATE WEBHOOKS,
+(14) CREATE + SPAM WEBHOOKS,
+(15) CHECK WEBHOOK.
