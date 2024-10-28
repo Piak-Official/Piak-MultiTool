@@ -1,12 +1,5 @@
 <img align="center" src="Logo.png" width="100%">
 
-<p align="center">
-  <img src="https://img.shields.io/github/v/release/Piak-Official/Piak-MultiTool?label=Version&color=ffff00&version=1">
-  <img src="https://img.shields.io/github/stars/Piak-Official/Piak-MultiTool?style=flat&label=Stars&color=ffff00">
-  <img src="https://img.shields.io/github/repo-size/Piak-Official/Piak-MultiTool?label=Size&color=ffff00">
-  <img src="https://img.shields.io/github/languages/top/Piak-Official/Piak-MultiTool?color=ffff00">
-</p>
-
 <h3 align="center">⭐ N'oubliez pas d'ajouter une étoile ! ⭐</h3>
 <h3 align="center">⭐ Don't forget to star the repository! ⭐</h3>
 
