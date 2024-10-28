@@ -1,4 +1,4 @@
-<img align="center" src="Settings\config\Nkrz.png" width="100%">
+<img align="center" src="Logo.png" width="100%">
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/BlueTiger-Official/BlueTiger-MultiTool?label=Version&color=091af9&version=1">
